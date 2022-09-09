@@ -1,0 +1,13 @@
+"ID",Age,Sex,"Primary Diagnosis"
+Test1,40,M,OCD
+Test2,50,F,ADHD
+Test3,70,F,OCD
+Test4,79,M,ADHD
+Test5,62,M,ASD
+Test2,5,F,OCD
+Test1,41,M,OCD
+Test2,51,F,OCD
+Test3,74,F,OCD
+Test4,71,M,ADHD
+Test5,63,M,ASD
+Test2,6,F,OCD
