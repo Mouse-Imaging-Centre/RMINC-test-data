@@ -1,0 +1,32 @@
+Cage,Strain,"Pain sensitivity",Manipulation,Genotype,Weight,"L7 cutoff 20","R7 cutoff 20",L7-BL,R7-BL,"Avg R_L 7","L21 cut20","R21 cut20","AUC of AVG of R_L","BXA-24 Excl",Exclude,"Image Name",jacobians_0.2
+57,BXA-14,"Mod hypo",sham,A,27,20,20,5,5,5,15,15,32.5,NA,N,20nov12.15.mnc,/tmp/rminctestdata/testsummaryminc1.mnc
+52,BXA-14,"Mod hypo",sham,A,27,10,10,9.4,9.4,9.4,2,2,95.4,NA,N,20nov12.9.mnc,/tmp/rminctestdata/testsummaryminc2.mnc
+55,BXA-14,"Very hypo",sham,A,26,20,20,19.8,19.8,19.8,20,20,416.64,NA,N,20nov12.10.mnc,/tmp/rminctestdata/testsummaryminc3.mnc
+45,BXA-14,Allodynic,extract,A,38,4,4,0,0,0,2,2,-37.8,NA,N,img_14aug12.7.mnc,/tmp/rminctestdata/testsummaryminc4.mnc
+53,BXA-14,"Mod hypo",extract,A,22,10,10,8.6,8.6,8.6,1.4,1.4,60.2,NA,N,img_20aug12.3.mnc,/tmp/rminctestdata/testsummaryminc5.mnc
+54,BXA-14,"Very hypo",extract,A,16,10,20,2,12,7,10,10,167,NA,N,img_09aug12.7.mnc,/tmp/rminctestdata/testsummaryminc6.mnc
+56,BXA-14,"Very hypo",extract,A,20,20,20,12,12,12,10,8,175,NA,N,img_09aug12.8.mnc,/tmp/rminctestdata/testsummaryminc7.mnc
+48,BXA-14,"Very hypo",extract,A,21,20,20,19.4,19.4,19.4,4,4,183.4,NA,N,img_22aug12.3.mnc,/tmp/rminctestdata/testsummaryminc8.mnc
+50,BXA-14,"Very hypo",extract,A,20,20,20,19.6,19.6,19.6,10,10,306.6,NA,N,img_20aug12.1.mnc,/tmp/rminctestdata/testsummaryminc9.mnc
+47,BXA-14,"Very hypo",extract,A,38,20,20,19,19,19,15,15,329,NA,N,img_22aug12.1.mnc,/tmp/rminctestdata/testsummaryminc10.mnc
+5new,BXA-24,Allodynic,sham,B,22,6,6,-11.5,-11.5,-11.5,2,4,-267.1,N,N,img_16may13.16.mnc,/tmp/rminctestdata/testsummaryminc11.mnc
+7new,BXA-24,Allodynic,sham,B,28,2,1.4,-13,-13.6,-13.3,6,6,-208.9,N,N,img_23may13.3.mnc,/tmp/rminctestdata/testsummaryminc12.mnc
+6new,BXA-24,Allodynic,sham,B,27,8,6,-9.5,-11.5,-10.5,10,10,-167.5,N,N,img_16may13.9.mnc,/tmp/rminctestdata/testsummaryminc13.mnc
+44,BXA-24,"No change",sham,B,28,0.2,0.2,0,0,0,0.4,0.4,1.05,N,N,20nov12.7.mnc,/tmp/rminctestdata/testsummaryminc14.mnc
+35,BXA-24,"No change",sham,B,21,0.2,0.2,0,0,0,0.07,0.07,15.045,N,N,20nov12.4.mnc,/tmp/rminctestdata/testsummaryminc15.mnc
+22new,BXA-24,"No change",sham,B,22,0.4,0.4,-0.1,-0.1,-0.1,0.4,0.16,-3.9,N,N,img_16may13.8.mnc,/tmp/rminctestdata/testsummaryminc16.mnc
+23new,BXA-24,"No change",sham,B,28,0.4,0.2,0,-0.2,-0.1,0.4,0.4,-0.84,N,N,img_17may13.12.mnc,/tmp/rminctestdata/testsummaryminc17.mnc
+41,BXA-24,"Mod hypo",sham,B,27,15,20,14.6,19.6,17.1,0.4,0.4,129.7,Y,N,20nov12.6.mnc,/tmp/rminctestdata/testsummaryminc18.mnc
+38,BXA-24,"Mod hypo",sham,B,24,8,8,7.8,7.8,7.8,10,10,134.56,Y,N,20nov12.5.mnc,/tmp/rminctestdata/testsummaryminc19.mnc
+4new,BXA-24,Allodynic,extract,B,24,8,8,-2,-2,-2,8,8,-74,Y,N,img_17may13.9.mnc,/tmp/rminctestdata/testsummaryminc20.mnc
+34,BXA-24,"No change",extract,B,25,0.2,1,-0.4,0.4,0,1.4,1.4,4.84,Y,N,img_01aug12.8.mnc,/tmp/rminctestdata/testsummaryminc21.mnc
+40,BXA-24,"No change",extract,B,27,0.4,2,-0.5,1.1,0.3,0.16,0.4,11.06,N,N,img_01aug12.12.mnc,/tmp/rminctestdata/testsummaryminc22.mnc
+21new,BXA-24,"No change",extract,B,23,1,0.4,0.6,0,0.3,0.4,0.4,2.3,Y,N,img_17may13.11.mnc,/tmp/rminctestdata/testsummaryminc23.mnc
+37,BXA-24,"Mod hypo",extract,B,22,15,20,14.6,19.6,17.1,0.07,0.07,48.99,N,N,img_01aug12.10.mnc,/tmp/rminctestdata/testsummaryminc24.mnc
+9new,BXA-24,"Mod hypo",extract,B,24,10,8,5,3,4,8,8,58,N,N,img_16may13.15.mnc,/tmp/rminctestdata/testsummaryminc25.mnc
+43,BXA-24,"Mod hypo",extract,B,23,1.4,0.4,0.5,-0.5,0,8,10,104.1,N,N,img_01aug12.14.mnc,/tmp/rminctestdata/testsummaryminc26.mnc
+36,BXA-24,"Mod hypo",extract,B,25,8,20,6.6,18.6,12.6,0.16,0.6,75.86,N,N,img_01aug12.9.mnc,/tmp/rminctestdata/testsummaryminc27.mnc
+42,BXA-24,"Mod hypo",extract,B,21,8,8,7.6,7.6,7.6,0.6,0.6,58.8,N,N,img_01aug12.13.mnc,/tmp/rminctestdata/testsummaryminc28.mnc
+2new,BXA-24,"Mod hypo",extract,B,23,15,10,8,3,5.5,10,15,89.1,N,N,img_17may13.7.mnc,/tmp/rminctestdata/testsummaryminc29.mnc
+3new,BXA-24,"Very hypo",extract,B,22,15,15,13.3,13.3,13.3,15,15,262.3,N,N,img_17may13.8.mnc,/tmp/rminctestdata/testsummaryminc30.mnc
+1new,BXA-24,"Very hypo",extract,B,25,20,20,16.5,16.5,16.5,15,15,273.5,N,N,img_17may13.1.mnc,/tmp/rminctestdata/testsummaryminc31.mnc
